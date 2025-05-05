@@ -26,7 +26,7 @@ __version__ = "1.2.1"
 
 def _system_check(root: tk.Tk) -> Optional[str]:
     """
-    Detected some system and software compatibility issues,
+    Detect some system and software compatibility issues,
     and returned the information in the form of a string to alert the user
 
     :param root: Tk instance
