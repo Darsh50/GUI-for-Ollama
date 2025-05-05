@@ -1,7 +1,6 @@
 # GUI-for-Ollama
 A standalone Ollama GUI built with Tkinter, requiring no external dependencies.
 
-![GitHub License](https://img.shields.io/github/license/chyok/ollama-gui)
 ![PyPI - Version](https://img.shields.io/pypi/v/ollama-gui)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ollama-gui)
 
